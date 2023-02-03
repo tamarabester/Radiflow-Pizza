@@ -2,7 +2,7 @@
 *Radiflow Python home assignment*
 
 ## Installation
-1. clone repo
+1. clone repo `https://github.com/tamarabester/Radiflow-Pizza.git`
 2. build: `docker-compose build`
 
 ## Execution
