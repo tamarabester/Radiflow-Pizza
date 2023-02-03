@@ -8,7 +8,7 @@
 ## Execution
 The program receives its input through a CSV file 'orders.csv'. Create this file in the directory the running command is run from.
 
-**Input file format**
+**Input file format**  
 Each line represents an order for a single pizza, and each pizza is represented by comma-separated toppings.  
 For example, the following file is interpreted as a list of 4 orders: The first order with onion and mushroom toppings, the second one with extra mozzarella, the third one plain, and the fourth one with olives.  
 ```
